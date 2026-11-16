@@ -1,0 +1,31 @@
+AMAZING INFO NEWS (Ai.N)
+A daily generative-AI newspaper for your Mac's menu bar.
+
+INSTALL (one minute)
+1. Drag "Amazing Info News.app" into your Applications folder.
+2. Double-click it. macOS will say it can't check the app for malicious
+   software (it comes from a friend, not the App Store). Click "Done".
+3. Open System Settings > Privacy & Security, scroll down, and click
+   "Open Anyway" next to Amazing Info News. Confirm with "Open".
+   (You only do this once.)
+
+USING IT
+- Look for the newspaper icon at the top-right of your screen, in the menu bar.
+- Click it for today's headlines. Use the arrows or the calendar to read
+  earlier days. "Read the full edition" opens the whole newspaper.
+- A new edition is printed every morning while your Mac is on. The first one
+  is printed straight away.
+- Settings… lets you open Ai.N automatically when you log in, pause daily
+  delivery, or reprint today's edition.
+
+OPTIONAL: CLAUDE EDITOR
+If you have an Anthropic API key, paste it into Settings and Claude will edit
+each edition: sharper headlines, "Why it matters" notes, By the numbers, and
+a daily Pixel & Dez comic strip. It costs a few cents a day on your own
+Anthropic account. Get a key at console.anthropic.com.
+
+TURNING IT OFF
+Switch off "Daily delivery" in the menu, or choose "Quit Ai.N".
+To remove it completely, drag the app from Applications to the Trash.
+
+Needs macOS 14 (Sonoma) or later. Works on Apple silicon and Intel Macs.

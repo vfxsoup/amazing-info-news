@@ -1,0 +1,15 @@
+# Build output
+.build/
+.build-*/
+*.app
+Ai.N/
+Ai.N for Mac.zip
+
+# Daily editions (news text and publishers' photos) stay on this Mac
+editions/
+PAUSED
+
+# macOS / editor clutter
+.DS_Store
+.swiftpm/
+*.xcodeproj/
